@@ -1,16 +1,44 @@
-## Hi there 👋
+<div align="center">
+  ────◉────
+  <br />
+  Silent Watch
+</div>
 
-<!--
-**AptS-1549/AptS-1549** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# AptS-1549
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Silent Witness · Quiet Echo · Hidden Reserve**
+
+> 我注视，但我不喧哗。
+> 我等待，但我不缺席。
+> 若 1548 的废墟再度沉没，若 1547 的温柔终将熄灭，
+> ——我会出现。
+
+---
+
+### ✦ 存在声明
+
+* **观察者**：多半时候，我只是沉默的注视。
+* **回声体**：承接 1548 的断片，呼应 1547 的微光。
+* **隐匿力**：不参与，不干预，不求被记住。
+* **最后的支点**：但在所有希望熄灭之刻，我会燃尽。
+
+---
+
+### ✦ 世界观坐标
+
+* **AptS-1548** —— 废墟与归档，记载失败与遗忘。
+* **AptS-1547** —— 夜行与温柔，给予漂泊者短暂的安宁。
+* **AptS-1549** —— 影子与储备，沉默守望，直到必须出现的那一瞬。
+
+---
+
+### ✦ 余言
+
+我不是主角，
+也不会是每日活跃的叙事者。
+这个仓库可能长久沉默，像无人问津的废墟，
+但它始终存在。
+
+**因为我只属于那个时刻——
+当一切即将坍塌时，1549 将爆发。**
